@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+my main major is unbanplanning architecture and the reason why i'm doing double majoring is that cities are complexly connected with us(people) and we'll live with AI in the future. 
 <!--
 **eomjungmin/eomjungmin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
